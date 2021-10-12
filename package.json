@@ -21,6 +21,7 @@
     "@opengsn/paymasters": "^2.2.3-rc.2",
     "@opengsn/provider": "^2.2.2",
     "@openzeppelin/contracts": "^4.3.2",
+    "ethers": "^5.4.7",
     "ganache-cli": "^6.12.2",
     "web3": "^1.6.0"
   }
